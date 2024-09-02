@@ -1,0 +1,29 @@
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.AssemblyInfoInputs.cache
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.AssemblyInfo.cs
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.sourcelink.json
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\bin\Debug\net8.0\ejerciciosP2.exe
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\bin\Debug\net8.0\ejerciciosP2.deps.json
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\bin\Debug\net8.0\ejerciciosP2.runtimeconfig.json
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\bin\Debug\net8.0\ejerciciosP2.dll
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\bin\Debug\net8.0\ejerciciosP2.pdb
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.dll
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\obj\Debug\net8.0\refint\ejerciciosP2.dll
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.pdb
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.genruntimeconfig.cache
+C:\Users\Estudiante UCU\OneDrive\Documentos\segundo semestre\p2\GitHub\ejercicios practica poo\ejerciciosPractica\ejerciciosP2\ejerciciosP2\obj\Debug\net8.0\ref\ejerciciosP2.dll
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\bin\Debug\net8.0\ejerciciosP2.exe
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\bin\Debug\net8.0\ejerciciosP2.deps.json
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\bin\Debug\net8.0\ejerciciosP2.runtimeconfig.json
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\bin\Debug\net8.0\ejerciciosP2.dll
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\bin\Debug\net8.0\ejerciciosP2.pdb
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.AssemblyInfoInputs.cache
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.AssemblyInfo.cs
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.dll
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\obj\Debug\net8.0\refint\ejerciciosP2.dll
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.pdb
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\obj\Debug\net8.0\ejerciciosP2.genruntimeconfig.cache
+C:\Users\Estudiante UCU\RiderProjects\ejerciciosP2\obj\Debug\net8.0\ref\ejerciciosP2.dll
